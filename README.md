@@ -14,53 +14,21 @@ For this assignment, you need to construct a personalized diet using current rec
 
 The constraints for this linear programming problem, should consider seven components of nutrition and their daily values, as shown in the following table:
 
-Component
+Component Max/Min Daily Amount and measure
 
-Max/Min
+Sodium Maximum 5,000 milligrams (mg)
 
-Daily Amount and measure
+Energy Minimum 2,000 Calories (kilocalories, kcal)
 
-Sodium
+Protein Minimum 50 grams (g)
 
-Maximum
+Vitamin D Minimum 20 micrograms (mcg)
 
-5,000 milligrams (mg)
+Calcium Minimum 1,300 milligrams (mg)
 
-Energy
+Iron Minimum 18 milligrams (mg)
 
-Minimum
-
-2,000 Calories (kilocalories, kcal)
-
-Protein
-
-Minimum
-
-50 grams (g)
-
-Vitamin D
-
-Minimum
-
-20 micrograms (mcg)
-
-Calcium
-
-Minimum
-
-1,300 milligrams (mg)
-
-Iron
-
-Minimum
-
-18 milligrams (mg)
-
-Potassium
-
-Minimum
-
-4,700 milligrams (mg)
+Potassium Minimum 4,700 milligrams (mg)
 
 Set this up as a standard linear programming problem with decision variables taking any non-negative values. In other words, partial servings are permitted.  
 
